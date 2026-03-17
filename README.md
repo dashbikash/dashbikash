@@ -1,6 +1,5 @@
 ## BIKASH PRAKASH DASH                
-### 🏢 Manager at Cognizant
-### ✉ bikashprakashdash@gmail.com
+### 🏢 Manager at Cognizant | ✉ bikashprakashdash@gmail.com
 ### PROFILE SUMMARY
 - Highly accomplished Engineering Leader with over 10 years of Leadership experience, including 4 years dedicated to enterprise product engineering. Expert in Data Engineering and Microservices with a proven track record in enterprise architecture, strategic leadership, and high-performance team management. I'm proud to have guided a squad to achieve the prestigious "Squad of the Year" award in India within a year.
 - Drove talent development and enhanced team performance through consistent mentoring, performance feedback, and insightful appraisal reviews.
