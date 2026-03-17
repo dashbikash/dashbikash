@@ -9,3 +9,11 @@
 - Managed vendor relationships and third-party integrations to evaluate and optimize business operations, resulting in improved efficiency and successful outcomes.
 - Contribute to organizational growth by training and mentoring candidates, strategically addressing technical skill gaps and preparing them for project-specific opportunities.
 - Possess strong proficiency in widely used technologies, including Cloud Computing, Artificial Intelligence, Cryptography, Networking, DevOps and Blockchain.
+
+### SKILL SET
+#### Enterprise Architect: TOGAF10, Strategy Planning, Solution Architecture, Artifact Writing,Miro, Draw IO, Plant UML
+#### Software Engineering: Golang, Java, SpringBoot, Python, Micro-services, REST, gRPC, SOAP, Cryptography, GIT, Jenkins, Docker,K8s, RabbitMQ , Spinnaker, Sonarqube
+#### Infrastructure: AWS(Lambda, S3, EKS, ECR, Secrets Manager, Data Sync), GCP(GKE, GAR, Cloud Run,Cloud Functions, GCS, PubSub, Scheduler, Storage Transfer), Unix Systems, Terraform
+#### Big Data Analytics: Apache Spark(Google DataProc), Google Data Flow( Apache Beam), BigTable, Singlestore, Spring Integration, Airflow, Hadoop HDFS, MySQL, MongoDB, Debezium CDC, MS SQL Server, Redis
+#### Project Management: Agile Scrum, Jira (JQL,Dashboards), Broadcom Rally
+#### AI Engineering and Tools: Llama.Cpp, Ollama, Github Copilot, Claude Code, FLAML, Feature Tools , Pandas
